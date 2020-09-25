@@ -1,0 +1,26 @@
+MySQL:
+  user: 'root'
+  senha: ''
+  ip: 'localhost'
+  porta: 3306
+  database: 'test'
+
+Config:
+  Whitelist: true # Caso true só irá pedir confirmação para quem esta na lista abaixo
+
+Mensagens:
+  Entrou:
+    - ''
+    - '&e&lGOOGLE SECURITY'
+    - ''
+    - '&fPara confirmar a sua entrada no servidor'
+    - '&fé necessário confirmar sua entrada com o'
+    - '&eGoogle Authenticator &fbasta entrar nele'
+    - '&fe clicar no botão "+" depois basta adicionar'
+    - '&fo seu &eSecret ID: {id} &c(Não passe para ninguém)'
+    - '&fdepois basta digitar o código que aparece no seu visor!'
+    - '&fno chat para verificar se o código está correto!'
+    - ''
+
+Jogadores: # Coloque aqui o nick dos jogadores que irão precisar
+  - 'zDarK_NighT_'

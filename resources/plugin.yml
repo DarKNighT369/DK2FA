@@ -1,0 +1,5 @@
+name: DK2FA
+version: 1.0
+author: DarK NighT
+main: me.dark.night.dk2fa.Main
+commands:
